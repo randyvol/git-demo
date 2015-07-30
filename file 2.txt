@@ -1,6 +1,6 @@
 1 this is a line
 2 this is a line
-3 this is a line
+3 this is a line; adding characters to a line in master, that is deleted in master_wip
 4 this is a line 
 5 this is a line
 6 this is a line
